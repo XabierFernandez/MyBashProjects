@@ -1,0 +1,225 @@
+total 12
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier    0 may  8 00:18 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier  223 may  8 00:18 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier  446 may  8 09:36 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier  669 may  8 09:40 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier  892 may  8 09:41 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 1115 may  8 09:41 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 1338 may  8 09:43 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 1561 may  8 09:43 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 1784 may  8 09:44 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 2007 may  8 10:38 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 2230 may  8 10:39 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 2453 may  8 10:39 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 2676 may  8 14:27 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 2899 may  8 14:28 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 3122 may  8 14:29 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 3345 may  8 14:30 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 3568 may  8 14:30 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 3791 may  8 14:31 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 16
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 4014 may  8 14:31 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 4237 may  8 14:33 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 4460 may  8 14:33 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 4683 may  8 14:33 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 4906 may  8 14:34 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 5129 may  8 14:48 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 5352 may  8 14:49 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 5575 may  8 14:49 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 5798 may  8 14:50 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 6021 may  8 14:52 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 6244 may  8 15:08 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 6467 may  8 15:08 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 6690 may  8 15:08 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 6913 may  8 19:43 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 7136 may  8 20:35 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 7359 may  8 20:40 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 7582 may  8 20:40 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 7805 may  8 20:41 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 20
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 8028 may  8 20:42 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 24
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 8251 may  8 20:42 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 24
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 8474 may  8 20:42 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 24
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 8697 may  8 20:42 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 24
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 8920 may  8 20:43 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 24
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 9143 may  8 20:43 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 24
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 9366 may  8 20:44 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 24
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 9589 may  8 20:46 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
+total 24
+drwxrwxr-x 2 xabier xabier 4096 may  8 00:17 .
+drwxrwxr-x 4 xabier xabier 4096 may  7 21:41 ..
+-rw-rw-r-- 1 xabier xabier 9812 may  8 20:48 log_2021-05-08.txt
+-rw-rw-r-- 1 xabier xabier   14 may  6 20:17 test1.txt
